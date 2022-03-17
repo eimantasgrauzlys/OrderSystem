@@ -1,0 +1,11 @@
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe.config
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.AssemblyReference.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.OrderSystem.resources
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.GenerateResource.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.exe
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\CodeAcademy\OrderSystem\OrderSystem\obj\Debug\OrderSystem.pdb
